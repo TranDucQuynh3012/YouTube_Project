@@ -12,9 +12,11 @@ I. Libraries used in this project:
    - Matplotlib, Seaborn, Plotly: create data visualizations.
    - Textblob: perform text data analysing.
    - WordCloud: creat a plot for text data.
+
 II. Target: 
    - Untilize the data to understand the situation of videos on YouTube in 2017. 
    - Getting some ideas to help YouTubers can improve quality of their videos to have a bigger chance to get into top trending videos on YouTube.
+
 III. Processing the Data.
    * Import all the important libraries: Numpy, Pandas, Matplotlib, Seaborn
    Other libraries will be installed and imported later when I need.
@@ -22,3 +24,4 @@ III. Processing the Data.
    * Analysing data: 
      1. YouTube comments: This data include comments of viewers in a sample of US YouTube videos. We need to find out what are the most words they using to write on their negative and positive comments.
      TextBlob library used to seperate comments to possitive and negative comment. And WordCoud help to show theme in to these images:
+     ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positive.png)
