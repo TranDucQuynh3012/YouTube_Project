@@ -26,7 +26,7 @@ III. Processing the Data:
      1. YouTube comments: This data include comments of viewers in a sample of US YouTube videos. We need to find out what are the most words they using to write on their negative and positive comments.
      TextBlob library used to seperate comments to possitive and negative comment. And WordCoud help to show theme in to these images:
      
-    ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positive.png)
+![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positive.png)
         
-    ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/negative.png)
+![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/negative.png)
 
