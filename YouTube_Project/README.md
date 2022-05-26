@@ -3,8 +3,9 @@ In this project, I'm working with YouTube dataset to find out what information t
 This 'YouTube Videos' Dataset contains the data of all the trending videos on YouTube in 2017. They are views, likes, dislikes, comments, links, origin... 
 In this project, I mostly use Python (on Anaconda - Jupyter Notebook) for analysing the data. Once I get the information that needed, the Power BI will help me show them to target person (my managers or my clients who have demand for information and insights from this dataset) by a dashboard.
 For a better version of Python Notebook which shows the Plotly charts, please go to this link below:
-#### YouTube Project: https://nbviewer.org/github/TranDucQuynh3012/PortfolioProjects/blob/main/YouTube%20Project.ipynb
-To run this Python Notebook file on your personal computer, please download & install Anaconda: https://www.anaconda.com/products/distribution
+#### https://nbviewer.org/github/TranDucQuynh3012/PortfolioProjects/blob/main/YouTube%20Project.ipynb
+To run this Python Notebook file on your personal computer, please download & install Anaconda: 
+#### https://www.anaconda.com/products/distribution
 
 I. Libraries used in this project:
    - Numpy: working with data in array type.
