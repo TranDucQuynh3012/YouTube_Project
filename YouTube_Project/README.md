@@ -1,6 +1,6 @@
 # YouTube Project:
 In this project, I'm working with YouTube dataset to find out what information this dataset gives us. And from that, I will get some insights to help us understand what is going on with videos on YouTube.
-This 'YouTube Videos' Dataset contains the data of all the trending videos on YouTube in 2017. They are views, likes, dislikes, comments, links, origin... 
+This 'YouTube Videos' Dataset contains the data of all the trending videos on YouTube in 2017. They are views, likes, dislikes, comments, links, origin... It only contain YouTube video data in some developed countries, not all the world.
 In this project, I mostly use Python (on Anaconda - Jupyter Notebook) for analysing the data. Once I get the information that needed, the Power BI will help me show them to target person (my managers or my clients who have demand for information and insights from this dataset) by a dashboard.
 For a better version of Python Notebook which shows the Plotly charts, please go to this link below:
 #### https://nbviewer.org/github/TranDucQuynh3012/PortfolioProjects/blob/main/YouTube%20Project.ipynb
@@ -13,6 +13,8 @@ I. Libraries used in this project:
    - Matplotlib, Seaborn, Plotly: create data visualizations.
    - Textblob: perform text data analysing.
    - WordCloud: creat a plot for text data.
+   - Emoji: perform emoji data analysing.
+   - OS: used to take the name of csv files in a folder.
 
 II. Target: 
    - Untilize the data to understand the situation of videos on YouTube in 2017. 
@@ -26,7 +28,17 @@ III. Processing the Data:
      1. YouTube comments: This data include comments of viewers in a sample of US YouTube videos. We need to find out what are the most words they using to write on their negative and positive comments.
      TextBlob library used to seperate comments to possitive and negative comment. And WordCoud help to show theme in to these images:
      
-![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positive.png)
+      ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positive.png)
         
-![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/negative.png)
+      ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/negative.png)
+
+      2. Emoji: I used Emoji library here to find out what are the most used emoji in viewer's comments. As we can see, most of them are happy, like, encourage... emoji. So I can conclude that viewers use more emoji when they love the video. I also use plotly graph here to obtain better looking visualization with emoji.
+      [alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/emoji.png)
+
+      3. Which video categories have maximum likes (and views) videos?: To answer this question, I need to show you the categories's names and the outstanding number of likes and views. And this is how it looks like:
+      [alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/likeandview.png)
+
+
+
+
 
