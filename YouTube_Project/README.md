@@ -28,7 +28,7 @@ III. Processing the Data:
      1. YouTube comments: This data include comments of viewers in a sample of US YouTube videos. We need to find out what are the most words they using to write on their negative and positive comments.
      TextBlob library used to seperate comments to possitive and negative comment. And WordCoud help to show theme in to these images:
      
-      ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positivenegative.png)
+      ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/positivenagative.png)
      
 
       2. Emoji: I used Emoji library here to find out what are the most used emoji in viewer's comments. As we can see, most of them are happy, like, encourage... emoji. So I can conclude that viewers use more emoji when they love the video. I also use plotly graph here to obtain better looking visualization with emoji.
