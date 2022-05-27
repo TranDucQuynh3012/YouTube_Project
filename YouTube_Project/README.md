@@ -34,9 +34,17 @@ III. Processing the Data:
       2. Emoji: I used Emoji library here to find out what are the most used emoji in viewer's comments. As we can see, most of them are happy, like, encourage... emoji. So I can conclude that viewers use more emoji when they love the video. I also use plotly graph here to obtain better looking visualization with emoji.
       
       ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/emoji.png)
+      
+      As we can see, most of them are happy, like, encourage... emoji. We can see that viewers use more emoji when they love the video. The more they use emoji, the more they love your video. If people didnt use emoji in their comment, you can consider that if they don't like your video or not.
 
       3. Which video categories have maximum likes (and views) videos?: To answer this question, I need to show you the categories's names and the outstanding number of likes and views. And this is how it looks like:
+
       ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/likeandview.png)
+
+      From the box plot above, we can see that Music and Entertainment category have videos which have the maximum views and likes on YouTube. That means most of people come to YouTube to enjoy the music videos and relax by entertainment ones. Trailers have less views and likes because they are not released frequently, and people may consider them as advertise videos.
+      If you want to have a better chance to have more views or likes on YouTube, try to make music contents such as create new songs, cover or remix famous songs with your own styles, realease your high quality MV... Or you can try entertainment content like doing some challenges, interesting things happen in your day, react to another videos...
+
+
 
 
 
