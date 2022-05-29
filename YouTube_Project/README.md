@@ -44,7 +44,13 @@ III. Processing the Data:
 
       *From the box plot above, we can see that Music and Entertainment category have videos which have the maximum views and likes on YouTube. That means most of people come to YouTube to enjoy the music videos and relax by entertainment ones. Trailers have less views and likes because they are not released frequently, and people may consider them as advertise videos.
       If you want to have a better chance to have more views or likes on YouTube, try to make music contents such as create new songs, cover or remix famous songs with your own styles, realease your high quality MV... Or you can try entertainment content like doing some challenges, interesting things happen in your day, react to another videos...*
-To be continued...
+
+      **4. Finding out whether the audience reacted or not:** Viewers could watch the videos but they might not leave it a like, dislike of comment on them. So I will find out which categories the audiences reacted most. I used the [likes/ views], [dislikes/ views], [comments count/ views] rate to get the answer. The higher the rates are, the more the viewers reacted with that video. After calculated the rates, here are the results:
+
+      ![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/YouTube_Project/Plot/likerate.png)
+
+      *Comment: 3 box plots above show us how the viewers reacted to the videos. People used like button more frequently than dislike or leaving a comment. I can say that it is easier to like a video than dislike or comment on it. Because if people don't really like the video, even they hate it, they just can ignore it and watch another one which is more interesting. Some categories like 'News and Politic', 'People and Blogs', 'Nonprofit and Activism' which have high oppotunity to offense someone; or 'Entertainment', 'Gaming', 'Sience & Technology' which have rich contents for people to discuss, they have higher dislike rate or comment rate than others.*
+      *We can look at 'Gaming' and 'Sience & Technology' categories, they have high rate of like and comment but low rate of dislike. These categories are really adtractive and being loved by the people.So if you want your viewers have good reactions on your videos, try create videos about gaming, science or technology.* 
 
 
 
