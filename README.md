@@ -1,4 +1,7 @@
 # YouTube Project:
+
+![alt text](https://github.com/TranDucQuynh3012/Data_Analysis_Project/blob/main/Plot/Dashboard.png)
+
 In this project, I'm working with YouTube dataset to find out what information this dataset gives us. And from that, I will get some insights to help us understand what is going on with videos on YouTube.
 
 This 'YouTube Videos' Dataset contains the data of all the trending videos on YouTube in 2017 and 2018. They are views, likes, dislikes, comments, links, origin... It only contains YouTube video data in some developed countries, not all of the world.
